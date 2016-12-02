@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<affiliates>
+	<affiliate>
+	  <webName>ConejoX</webName>
+	  <url>http://www.conejox.com</url>
+	  <natsWebcams>MjYwNS4xLjI1LjQzLjAuMC4wLjAuMA</natsWebcams>
+	  <natsMainPage>MjYwNS4xLjIuMi4wLjAuMC4wLjA</natsMainPage>
+	  <cssFolder>conejox</cssFolder>
+	  <googleAnalyticsID>UA-26020144-23</googleAnalyticsID>
+	</affiliate>
+	<affiliate>
+	  <webName>Cerdas</webName>
+	  <url>http://www.cerdas.com</url>
+	  <natsWebcams>MjYwNS4xLjI1LjQzLjAuMC4wLjAuMA</natsWebcams>
+	  <natsMainPage>MjYwNS4xLjIuMi4wLjAuMC4wLjA</natsMainPage>
+	  <cssFolder>cerdas</cssFolder>
+	  <googleAnalyticsID>UA-26020144-23</googleAnalyticsID>
+	</affiliate>
+	<affiliate>
+	  <webName>Babosas</webName>
+	  <url>http://www.babosas.com</url>
+	  <natsWebcams>MjYwNS4xLjI1LjQzLjAuMC4wLjAuMA</natsWebcams>
+	  <natsMainPage>MjYwNS4xLjIuMi4wLjAuMC4wLjA</natsMainPage>
+	  <cssFolder>babosas</cssFolder>
+	  <googleAnalyticsID>UA-26020144-23</googleAnalyticsID>
+	</affiliate>
+</affiliates>

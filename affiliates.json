@@ -1,0 +1,26 @@
+{
+	"conejox": {
+		"webName": "ConejoX",
+		"url": "http://www.conejox.com",
+		"natsWebcams": "MjYwNS4xLjI1LjQzLjAuMC4wLjAuMA",
+		"natsMainPage": "MjYwNS4xLjIuMi4wLjAuMC4wLjA",
+		"cssFolder": "conejox",
+		"googleAnalyticsID": "UA-26020144-23"
+	},
+	"cerdas": {
+		"webName": "Cerdas",
+		"url": "http://www.cerdas.com",
+		"natsWebcams": "MjYwNS4xLjI1LjQzLjAuMC4wLjAuMA",
+		"natsMainPage": "MjYwNS4xLjIuMi4wLjAuMC4wLjA",
+		"cssFolder": "cerdas",
+		"googleAnalyticsID": "UA-26020144-23"
+	},
+	"babosas": {
+		"webName": "Babosas",
+		"url": "http://www.babosas.com",
+		"natsWebcams": "MjYwNS4xLjI1LjQzLjAuMC4wLjAuMA",
+		"natsMainPage": "MjYwNS4xLjIuMi4wLjAuMC4wLjA",
+		"cssFolder": "babosas",
+		"googleAnalyticsID": "UA-26020144-23"
+	}
+}
